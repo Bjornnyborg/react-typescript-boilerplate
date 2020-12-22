@@ -3,7 +3,7 @@
 - Run `yarn`
 - Run `yarn start`
 
-## Boilerplate inclides
+## Boilerplate includes
 - Eslint/Prettier
 - Typescript
 - Redux with Sagas (with dummy async login function)
